@@ -1,2 +1,3 @@
 # CSqlite3
-CSqlite3
+
+A description of this package.
