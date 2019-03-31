@@ -1,6 +1,0 @@
-module CSqlite3 [system] {
-	header "/usr/include/sqlite3ext.h"
-	header "/usr/include/sqlite3.h"
-	link "sqlite3"
-	export *
-}
